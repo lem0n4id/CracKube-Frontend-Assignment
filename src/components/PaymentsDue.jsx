@@ -1,6 +1,6 @@
 export default function PaymentsDue() {
     return (
-        <div className="w-[400px] h-[400px] 2xl:w-[761px] 2xl:h-[340px] bg-[#202020] rounded-xl">
+        <div className="w-[400px] h-[400px] bg-[#202020] rounded-xl">
             <div>
                 <div className="ml-10 mt-4 flex justify-between">
                     <div className="text-xl font-semibold text-white">Payment Due</div>

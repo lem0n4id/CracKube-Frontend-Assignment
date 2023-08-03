@@ -1,6 +1,6 @@
 export default function LatestTrans() {
     return (
-        <div className="w-[550px] h-[630px] 2xl:w-[673px] 2xl:h-[630px] bg-[#202020] rounded-xl">
+        <div className="w-[550px] h-[630px] bg-[#202020] rounded-xl">
             <div>
                 <div className="ml-10 pt-9 flex justify-between">
                     <div className="text-xl font-semibold text-white">Latest Transaction</div>
@@ -18,7 +18,7 @@ export default function LatestTrans() {
                         <div className="rounded-sm border border-white w-5 h-5">
                         </div>
                         <div className="ml-12 w-20">Name ADS</div>
-                        <div className="ml-[200px] 2xl:ml-[213px]">Total Spend</div>
+                        <div className="ml-[200px]">Total Spend</div>
                         <div className="ml-[76px]">Status</div>
                     </div>
                     <Item />
