@@ -5,8 +5,8 @@ import LatestTrans from "./components/LatestTrans"
 import PaymentsDue from "./components/PaymentsDue"
 import Transfer from "./components/Transfer"
 import VideoCards from "./components/VideoCards"
-import Navbar from "./components/navbar"
-import Sidebar from "./components/sidebar"
+import Navbar from "./components/Navbar"
+import Sidebar from "./components/Sidebar"
 
 function App() {
 
