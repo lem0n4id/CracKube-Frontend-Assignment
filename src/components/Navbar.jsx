@@ -50,6 +50,7 @@ export default  function Navbar() {
                     <div className="text-xl text-white font-semibold">Peterdraw.co</div>
                 </div>
                 <div className="w-[65px] h-[65px] rounded-full bg-white  mr-[50px]">
+                    <img src="/Profile.png" alt="" />
                 </div>
             </div>
         </div>

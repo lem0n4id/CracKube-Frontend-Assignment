@@ -76,7 +76,7 @@ function SidebarItemActive({ title, icon }) {
             <div className="w-6 h-6 p-0.5 flex-shrink-0">
                 {icon}
             </div>
-            <div className="text-[#717579] text-lg font-medium">{title}</div>
+            <div className="text-[#2BC155] text-lg font-medium">{title}</div>
         </div>
     );
 }
